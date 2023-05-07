@@ -1,7 +1,6 @@
 .header{
     background-color: rgb(255, 248, 220);
     font-size: 50px;
-    color: brown;
     text-align: center;
 }
 .header img{
@@ -13,24 +12,20 @@
     text-align: center;
 }
 .topnav a{
-    color: brown;
     text-align: center;
     font-size: x-large;
     
 }
 .general{
     background-color: rgb(255, 248, 220);
-    color: brown;
     font-size: xx-large;
 }
 .general a{
-    color: brown;
     text-align: center;
     font-size: large;
 }
 .menu{
     background-color: rgb(255, 248, 220);
-    color: brown;
 }
 .menu a{
     color: brown;
@@ -57,5 +52,4 @@
 .footer{
     background-color: rgb(255, 248, 220);
     text-align: center;
-    color: brown
 }
