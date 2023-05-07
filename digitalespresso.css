@@ -28,7 +28,9 @@
 .menu img{
     width: 100px;
 }
-
+.product{
+    background-color: rgb(255, 255, 255);
+}
 .product img{
     display: block;
     margin-left: auto;
