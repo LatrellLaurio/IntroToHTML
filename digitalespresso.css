@@ -1,0 +1,61 @@
+.header{
+    background-color: rgb(255, 248, 220);
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+}
+.header image{
+    float: left;
+    width: 80px;
+}
+.topnav{
+    background-color: rgb(255, 248, 220);
+    text-align: center;
+}
+.topnav a{
+    color: brown;
+    text-align: center;
+    font-size: x-large;
+    
+}
+.general{
+    background-color: rgb(255, 248, 220);
+    color: brown;
+    font-size: xx-large;
+}
+.general a{
+    color: brown;
+    text-align: center;
+    font-size: large;
+}
+.menu{
+    background-color: rgb(255, 248, 220);
+    color: brown;
+}
+.menu a{
+    color: brown;
+}
+.menu img{
+    width: 100px;
+}
+.product{
+    background-color: rgb(255, 248, 220);
+}
+.product img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+.product h1{
+    text-align: center;
+}
+.product p{
+    text-align: center;
+    font-size: larger;
+}
+.footer{
+    background-color: rgb(255, 248, 220);
+    text-align: center;
+    color: brown
+}
