@@ -1,5 +1,6 @@
 .header{
     background-color: rgb(165, 42, 42);
+    color: white;
     font-size: 50px;
     text-align: center;
 }
@@ -51,4 +52,5 @@
 .footer{
     background-color: rgb(165, 42, 42);
     text-align: center;
+    color: white;
 }
