@@ -24,7 +24,13 @@
     text-align: center;
     font-size: large;
 }
-
+.menu{
+    background-color: rgb(255, 255, 255);
+    color: white;
+}
+.menu a{
+    color: white;
+}
 .menu img{
     width: 100px;
 }
