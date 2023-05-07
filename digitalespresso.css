@@ -1,5 +1,5 @@
 .header{
-    background-color: rgb(255, 248, 220);
+    background-color: rgb(165, 42, 42);
     font-size: 50px;
     text-align: center;
 }
@@ -8,7 +8,7 @@
     width: 80px;
 }
 .topnav{
-    background-color: rgb(255, 248, 220);
+    background-color: rgb(165, 42, 42);
     text-align: center;
 }
 .topnav a{
@@ -49,6 +49,6 @@
     font-size: larger;
 }
 .footer{
-    background-color: rgb(255, 248, 220);
+    background-color: rgb(165, 42, 42);
     text-align: center;
 }
