@@ -4,16 +4,16 @@
     font-size: 50px;
     text-align: center;
 }
-.header img{
+.header image{
     float: left;
     width: 80px;
 }
-.topnav{
+.page{
     background-color: rgb(165, 42, 42);
     color: white;
     text-align: center;
 }
-.topnav a{
+.page a{
     text-align: center;
     font-size: x-large;
     color: white
@@ -31,13 +31,13 @@
 .menu a{
     color: black;
 }
-.menu img{
+.menu image{
     width: 100px;
 }
 .product{
     background-color: rgb(255, 255, 255);
 }
-.product img{
+.product image{
     display: block;
     margin-left: auto;
     margin-right: auto;
