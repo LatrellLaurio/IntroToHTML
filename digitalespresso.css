@@ -10,6 +10,7 @@
 }
 .topnav{
     background-color: rgb(165, 42, 42);
+    color: white;
     text-align: center;
 }
 .topnav a{
